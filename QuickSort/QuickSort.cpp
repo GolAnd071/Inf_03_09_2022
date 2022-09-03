@@ -1,8 +1,6 @@
 ﻿// QuickSort.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
-// Author: Головнев Андрей
-
 #include <iostream>
 #include <vector>
 #include <random>
